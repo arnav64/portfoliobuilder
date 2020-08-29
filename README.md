@@ -9,9 +9,7 @@ Project Description
 * We also want investors to look at company profiles i.e details about the company industry or location and details about the funding rounds that they carried out.
 * Investors can then add the companies that they find interesting to their portfolios. Our facts page attempts to highlight some such companies with interesting characteristics.
 
-Project Report:
-
-Video Describing Project:
+Project Report: CIS550ProjectReport.pdf
 
 Server-side Files
 * db_config.js - Configuration file for connecting with database.
