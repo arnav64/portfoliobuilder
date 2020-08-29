@@ -9,6 +9,10 @@ Project Description
 * We also want investors to look at company profiles i.e details about the company industry or location and details about the funding rounds that they carried out.
 * Investors can then add the companies that they find interesting to their portfolios. Our facts page attempts to highlight some such companies with interesting characteristics.
 
+Project Report:
+
+Video Describing Project:
+
 Server-side Files
 * db_config.js - Configuration file for connecting with database.
 * index.js - Starts the server, links HTTP requests with their handlers in routes.js.
@@ -16,7 +20,6 @@ Server-side Files
 * queryExecuter.js - Takes a query from the routes.js file, establishes a connection to the database and then executes the query.
 
 Client-Side Files
-* index.html - The root HTML file that React renders all of its components on.
 * index.js - The javascript file first invoked when the React script is started.
 * Home.js, Portfolio,js, and Facts.js - display the three main pages of the application. 
 * TableView.js and SingleCompany.js - display the company profile for a single company.
