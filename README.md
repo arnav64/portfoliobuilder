@@ -1,6 +1,6 @@
 These files are taken from a project created by Arnav Joshi, Sarthak Jain, Anush Chheda and Daniel Ssemanda for a class on Databases and Information Systems.
 
-Problem Statement
+Problem Statement:
 There is a lot of data available through several media outlets about companies that are publicly listed on stock exchanges. However Venture Capitalists, business research analysts and other investors might find it difficult to obtain information about startups and companies not publicly listed.
 
 Project Description
